@@ -1,0 +1,24 @@
+.outer-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+h1{
+    border: 2px solid black;
+    justify-self: center;
+    align-self: center;
+    padding: 1rem 2.3rem 1rem 2.3rem;
+    font-size: 1.3rem;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    color: red;
+    justify-content: center;
+}
+button{
+    margin: 1.4rem;
+}
